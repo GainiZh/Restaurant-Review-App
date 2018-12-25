@@ -1,3 +1,13 @@
+// check if a browser suppports a serviceWorker
+if('serviceWorker' in navigator) {
+  navigator.serviceWorker
+  // register a serviceWorker
+  .register('/sw.js')
+  .catch(function(err) {
+    console.error(err);
+  });
+}
+
 let restaurants,
   neighborhoods,
   cuisines
