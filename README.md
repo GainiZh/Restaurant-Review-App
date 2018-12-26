@@ -26,10 +26,11 @@ The starter code and assets were already provided by the Udacity. The app was bu
 
 ## Installation
 
-- Clone or download this repository.
+- Download this repository to the desktop.
 - Open the root folder in a terminal.
-- Start a local HTTP server. Python has simple tools for it. To do this, check the version of Python you already have: `python -V`. For Python 2.x, use `python -m SimpleHTTPServer 8000` in your terminal. For Python 3.x, you can use `python3 -m http.server 8000`. If you don't have Python installed, you can download it on Python's website.
+- Start a local HTTP server. Python has simple tools for it. To do this, check the version of Python you already have by using this in the terminal `python -V`. For Python 2.x, use `python -m SimpleHTTPServer 8000` in your terminal. For Python 3.x, you can use `python3 -m http.server 8000`. If you don't have Python installed, you can download it on Python's website.
 In Windows systems Python 3.x is already installed by default. To start a Python 3.x server, enter `python -m http.server 8000`.
+- When your server runs, open the site in your browser: `http://localhost:8000.
 
 ## Licence
 
