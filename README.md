@@ -3,7 +3,6 @@
 ## Table of Contents
 
 * [Project Overview](#project-overview)
-* [Project Specification](#project-specification)
 * [Built with](#built-with)
 * [Installation](#installation)
 * [Licence](#licence)
