@@ -32,4 +32,4 @@ In Windows systems Python 3.x is already installed by default. To start a Python
 
 ## Licence
 
-- This project is licensed under the terms of the [MIT licence](https://en.wikipedia.org/wiki/MIT_License).
+- This project is licensed under the terms of the [MIT licence](https://github.com/GainiZh/Restaurant-Review-App/blob/master/LICENSE).
