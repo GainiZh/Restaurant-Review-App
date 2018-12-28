@@ -11,7 +11,7 @@
 
 This is the fifth project of the Udacity's Nanodegree Front-End Developer. The initial app lacked accessibility, responsive design, and didn't cache assets. The task was to convert a static webpage to a mobile-ready web application, implement web accessibility and make the app cache assets for offline use.
 
-![image](img/screenshot-readme.png "Image of the web app")
+![image](img/screenshot-for-readme.png "Image of the web app")
 
 ## Built with
 
